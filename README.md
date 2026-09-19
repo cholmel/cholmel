@@ -1,14 +1,8 @@
 
-
-<p align="center">
-  <a href="https://mymy.atabook.org/">新book</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">rentry</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">cc</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">straw</a>
+$\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
+<img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=24213E" alt="fans">
 </p>
+
 
  
 
@@ -20,5 +14,12 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=000000" alt="fans">
+<p align="center">
+  <a href="https://mymy.atabook.org/">新book</a>
+  &nbsp;&nbsp;
+  <a href="https://example.com">rentry</a>
+  &nbsp;&nbsp;
+  <a href="https://example.com">cc</a>
+  &nbsp;&nbsp;
+  <a href="https://example.com">straw</a>
 </p>
