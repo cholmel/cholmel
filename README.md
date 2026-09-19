@@ -2,12 +2,21 @@
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=000000" alt="fans">
+ 
+
+
+<p align="center">
+  <a href="https://example.com">wip</a>
 </p>
 
 
-<img width="575" height="320" alt="47779de762a1d9f30f118a083320b703" src="https://files.catbox.moe/raf5fj.gif" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67442e3b-9017-4725-ac42-e44fadf0dd6a" width="600">
+</p>
 
 
-⠀links to be updated
-⠀
+
+
+<img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=000000" alt="fans">
+</p>
