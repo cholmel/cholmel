@@ -1,5 +1,5 @@
 
-$\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
+$\color{#FF21FF}{\textsf{uwaaa so much lovee so much praisee!!!}}$
 <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=2421FF" alt="fans">
 </p>
 
