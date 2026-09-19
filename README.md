@@ -1,8 +1,12 @@
 
 $\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
-<img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=24213E" alt="fans">
+<img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=2421FF" alt="fans">
 </p>
+<details>
+  <summary>bleh</summary>
 
+  $\color{#24FFFF}{\textsf{DO  　NOT  　COPY / COVER / INSPO  　OR  　I  　GET   MAD}}$
+</details>
 
  
 
