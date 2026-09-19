@@ -15,7 +15,21 @@ $\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
 
 </details>
 
- 
+
+ <details>
+  <summary>links</summary>
+
+  <p align="left">
+    <a href="https://mymy.atabook.org/">新book</a>
+    &nbsp;  　&nbsp;
+    <a href="https://example.com/2">rentry</a>
+    &nbsp;  　&nbsp;
+    <a href="https://example.com/3">cc</a>
+    &nbsp;  　&nbsp;
+    <a href="https://example.com/4">straw</a>
+  </p>
+
+</details>
 
 
 <p align="center">
@@ -25,15 +39,3 @@ $\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
 
 
 
-<p align="center">
-  <a href="https://mymy.atabook.org/">新book</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">rentry</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">cc</a>
-  &nbsp;&nbsp;
-  <a href="https://example.com">straw</a>
-</p>
-
-
-  　
