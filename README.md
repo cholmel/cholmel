@@ -1,13 +1,13 @@
 
 
 <p align="center">
-  <a href="https://example.com">wip</a>
+  <a href="https://example.com">新book</a>
   &nbsp;&nbsp;
-  <a href="https://example.com">wip</a>
+  <a href="https://example.com">rentry</a>
   &nbsp;&nbsp;
-  <a href="https://example.com">wip</a>
+  <a href="https://example.com">cc</a>
   &nbsp;&nbsp;
-  <a href="https://example.com">wip</a>
+  <a href="https://example.com">straw</a>
 </p>
 
  
