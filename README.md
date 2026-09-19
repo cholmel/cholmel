@@ -2,10 +2,17 @@
 $\color{#FF21FF}{\textsf{uwaaa so many admirerssss!!!}}$
 <img src="https://komarev.com/ghpvc/?username=ongezeLLig&label=fans&color=2421FF" alt="fans">
 </p>
+
+
 <details>
   <summary>bleh</summary>
 
   $\color{#24FFFF}{\textsf{DO  　NOT  　COPY / COVER / INSPO  　OR  　I  　GET   MAD}}$
+
+  $\color{#24FFFF}{\textsf{usually semiafk IWC W2I C+H, no dni}}$
+
+  $\color{#24FFFF}{\textsf{iam 4w3 SX478 ISFP SEE efvl cholmel neuevil}}$
+
 </details>
 
  
