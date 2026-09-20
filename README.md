@@ -11,7 +11,7 @@ $\color{#FF21FF}{\textsf{uwaaa so much lovee so much praisee!!!}}$
 
   $\color{#24FFFF}{\textsf{usually semiafk IWC W2I C+H, no dni}}$
 
-  $\color{#24FFFF}{\textsf{iam 4w3 SX478 ISFP SEE efvl cholmel neuevil}}$
+  $\color{#24FFFF}{\textsf{iam 4w3 SX478 ISFP SEE efvl³³¹² cholmel neuevil}}$
 
 </details>
 
